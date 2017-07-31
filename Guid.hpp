@@ -116,3 +116,5 @@ namespace std
 		}
 	};
 }
+
+#include "Guid.cpp"
